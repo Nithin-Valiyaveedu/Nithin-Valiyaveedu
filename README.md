@@ -6,19 +6,21 @@
 A passionate software engineer from India and an aspiring full stack developer
 </h5>
 
-- 🔭 I’m currently working on **React.js and Java**
+- 🔭 I’m currently working on **React.js**
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **frontend projects**
+- 👯 I’m looking to collaborate on **Web development projects**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **Software Engineering, web development, NFTs, Crypto, AI**
 
 - 📫 How to reach me **nithinvaliya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nithin-valiyaveedu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nithin-valiyaveedu/" height="30" width="40" /></a>
+<a href="https://twitter.com/Nithin_V1998" target="blank"><img align="center" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" alt="https://twitter.com/Nithin_V1998" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nithin_valiyaveedu/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="https://www.instagram.com/nithin_valiyaveedu/" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
