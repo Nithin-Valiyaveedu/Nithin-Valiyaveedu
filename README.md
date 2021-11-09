@@ -1,10 +1,11 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />I'm Nithin Valiyaveedu</h1>
-<h5 align="center">
-A passionate software engineer from India and an aspiring full stack developer
-</h5>
+         width="45" /><br/>
+         I'm Nithin Valiyaveedu</h1>
+<h3 align="center">
+A passionate Software engineer and an aspiring full stack developer from India
+</h3>
 
 - 🔭 I’m currently working on **React.js**
 
@@ -12,7 +13,7 @@ A passionate software engineer from India and an aspiring full stack developer
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
-- 💬 Ask me about **Software Engineering, web development, NFTs, Crypto, AI**
+- 💬 Ask me about **Software Engineering, web development, NFT, Crypto, AI**
 
 - 📫 How to reach me **nithinvaliya@gmail.com**
 
