@@ -7,9 +7,9 @@
          A passionate Software Engineer and an aspiring full stack developer from India
 </h3>
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **React.js** 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack** and **Golang**
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
