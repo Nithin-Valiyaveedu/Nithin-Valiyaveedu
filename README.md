@@ -4,7 +4,7 @@
          width="45" /><br/>
          I'm Nithin Valiyaveedu</h1>
 <h3 align="center">
-         A passionate Software Engineer and an aspiring full stack developer from India
+         A passionate Full stack developer from India
 </h3>
 
 - 🔭 I’m currently working on **React.js** 
