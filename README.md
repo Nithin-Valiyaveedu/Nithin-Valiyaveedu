@@ -7,7 +7,7 @@
          A passionate Full stack developer from India
 </h3>
 
-- 🔭 I’m currently working on **React.js** 
+- 🔭 I’m currently working on **React.js** and **React Native** 
 
 - 🌱 I’m currently learning **MERN Stack** and **Golang**
 
