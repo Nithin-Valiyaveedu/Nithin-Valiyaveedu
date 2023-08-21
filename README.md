@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **3js** and **AWS Fundamentals**
 
-- 👯 I’m looking to work as a **Workstudent/Freelancing/Internships**
+- 👯 I’m looking to work as a **Workstudent/Freelancer/Intern**
 
 - 💬 Ask me about **Software Engineering, Web development, NFTs, Crypto, AI, 3js, Blender**
 
