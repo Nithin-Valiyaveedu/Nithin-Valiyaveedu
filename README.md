@@ -4,16 +4,16 @@
          width="45" /><br/>
          I'm Nithin Valiyaveedu</h1>
 <h3 align="center">
-         A passionate Full stack developer from India
+         A passionate Full stack developer and technology enthusiast
 </h3>
 
-- 🔭 I’m currently working on **React.js** and **React Native** 
+- 🔭 I’m currently working on **Next.js** **React.js** and **Node.js** 
 
-- 🌱 I’m currently learning **MERN Stack** and **Golang**
+- 🌱 I’m currently learning **3js** and **AWS Fundamentals**
 
-- 👯 I’m looking to collaborate on **Web development projects**
+- 👯 I’m looking to work as a **Workstudent/Freelancing/Internships**
 
-- 💬 Ask me about **Software Engineering, web development, NFT, Crypto, AI**
+- 💬 Ask me about **Software Engineering, Web development, NFTs, Crypto, AI, 3js, Blender**
 
 - 📫 How to reach me **nithinvaliya@gmail.com**
 
