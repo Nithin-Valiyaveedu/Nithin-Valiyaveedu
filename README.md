@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Next.js** **React.js** and **Node.js** 
 
-- 🌱 I’m currently learning **3js** and **AWS Fundamentals**
+- 🌱 I’m currently learning **Three.js** and **AWS Fundamentals**
 
 - 👯 I’m looking to work as a **Workstudent/Freelancer/Intern**
 
