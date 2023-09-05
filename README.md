@@ -4,7 +4,7 @@
          width="45" /><br/>
          I'm Nithin Valiyaveedu</h1>
 <h3 align="center">
-         A passionate Full stack developer and technology enthusiast
+         A passionate Full Stack Developer currently pursuing my masters in Web Engineering at Technische Universität Chemnitz, Germany
 </h3>
 
 - 🔭 I’m currently working on **Next.js** **React.js** and **Node.js** 
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to work as a **Workstudent/Freelancer/Intern**
 
-- 💬 Ask me about **Software Engineering, Web development, NFTs, Crypto, AI, 3js, Blender**
+- 💬 Ask me about **Software Engineering, Web development, NFTs, Crypto, AI, Threejs, Blender, React.js, Node.js,**
 
 - 📫 How to reach me **nithinvaliya@gmail.com**
 
