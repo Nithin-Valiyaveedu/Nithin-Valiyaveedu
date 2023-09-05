@@ -4,7 +4,7 @@
          width="45" /><br/>
          I'm Nithin Valiyaveedu</h1>
 <h3 align="center">
-         A passionate Full Stack Developer currently pursuing my masters in Web Engineering at Technische Universität Chemnitz, Germany
+         A passionate Full Stack Developer currently pursuing MSc. Web Engineering at Technische Universität Chemnitz, Germany
 </h3>
 
 - 🔭 I’m currently working on **Next.js** **React.js** and **Node.js** 
