@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Advanced Node.js**, **AWS Fundamentals** and  **Three.js**
 
-- 👯 I’m prefer working remotely in the **EU(Netherlands or Germany)** 
+- 👯 I prefer working remotely in the **EU(Germany and Switzerland)** 
 
 - 💬 Ask me about **Software Engineering, Web development, NFTs, Crypto, AI, Threejs, Blender, React.js, Node.js,**
 
