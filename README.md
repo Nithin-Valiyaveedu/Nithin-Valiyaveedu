@@ -4,14 +4,14 @@
          width="45" /><br/>
          I'm Nithin Valiyaveedu</h1>
 <h3 align="center">
-         A passionate Full Stack Developer working as a Research Assistand at Fraunhofer FOKUS and pursuing Master's in Web Engineering at Technische Universität Chemnitz, Germany
+         A Full Stack Developer working as a Research Assistant @Fraunhofer FOKUS (Berlin, Germany) alongside pursuing MSc.Web Engineering at TU Chemnitz, Germany
 </h3>
 
 - 🔭 I’m currently working on  **React flow**, **Next.js**, **React.js** and **Node.js** 
 
-- 🌱 I’m currently learning **Advanced Node.js**, **AWS Fundamentals** and  **Three.js**
+- 🌱 I’m currently learning about **AI Agents**, **LLMs**, **Cloud Native Deployment** and  **RAG**
 
-- 👯 I prefer working remotely in the **EU(Germany and Switzerland)** 
+- 👯 I prefer working remotely in the **EU** 
 
 - 💬 Ask me about **Software Engineering, Web development, NFTs, Crypto, AI, Threejs, Blender, React.js, Node.js,**
 
