@@ -4,10 +4,10 @@
          width="45" /><br/>
          I'm Nithin Valiyaveedu</h1>
 <h3 align="center">
-         A Full Stack Developer working as a Research Assistant @Fraunhofer FOKUS (Berlin, Germany) alongside pursuing MSc.Web Engineering at TU Chemnitz, Germany
+         A Full Stack Developer working as a Research Assistant @Fraunhofer FOKUS (Berlin, Germany) alongside pursuing MSc. Web Engineering at TU Chemnitz, Germany
 </h3>
 
-- 🔭 I’m currently working on  **React flow**, **Next.js**, **React.js** and **Node.js** 
+- 🔭 I’m currently working on  **Go**, **React flow**, **Next.js**, **React.js** and **Node.js** 
 
 - 🌱 I’m currently learning about **AI Agents**, **LLMs**, **Cloud Native Deployment** and  **RAG**
 
