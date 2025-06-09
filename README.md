@@ -11,10 +11,6 @@
 
 - 🌱 I’m currently learning about **AI Agents**, **LLMs**, **Cloud Native Deployment** and  **RAG**
 
-- 👯 I prefer working remotely in the **EU** 
-
-- 💬 Ask me about **Software Engineering, Web development, NFTs, Crypto, AI, Threejs, Blender, React.js, Node.js,**
-
 - 📫 How to reach me **nithinvaliya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
