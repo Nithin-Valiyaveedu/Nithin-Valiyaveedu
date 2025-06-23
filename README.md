@@ -15,7 +15,7 @@
 
 - 🔭 I'm currently working on  **Golang**, **Typescript**, **Javascript**,  **Python** **React flow**, **Next.js**, **React.js** and **Node.js** 
 
-- 🌱 I'm currently learning about **AI Agents**, **LLMs**, **Cloud Native Deployment** and  **RAG**
+- 🌱 I'm currently doing my thesis along side learning about **AI Agents**, **LLMs**, **Cloud Native Deployment**(AWS) and  **RAG**
 
 - 📫 How to reach me **nithinvaliya@gmail.com**
 
