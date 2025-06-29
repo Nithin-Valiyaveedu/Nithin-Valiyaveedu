@@ -29,8 +29,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithin-valiyaveedu&show_icons=true&locale=en&layout=compact&theme=dark" alt="nithin-valiyaveedu" /></p>
 
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nithin-Valiyaveedu&show_icons=true&theme=radical&hide_border=true" />
-</p>
