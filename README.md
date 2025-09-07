@@ -37,9 +37,6 @@
   <a href="https://x.com/Nithin_V1998" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
   </a>
-  <a href="mailto:nithinvaliya@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
-  </a>
 </div>
 
 <h2 align="center">Languages Used</h2>
