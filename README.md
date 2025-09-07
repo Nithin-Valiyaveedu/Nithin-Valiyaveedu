@@ -5,9 +5,16 @@
          width="45" /><br/>
          I'm Nithin Valiyaveedu</h1>
          <!-- Contribution Snake -->
+         
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nithin-Valiyaveedu/git-display/master/download.svg" alt="Contribution Snake" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nithin-Valiyaveedu/Nithin-Valiyaveedu/refs/heads/github-breakout/images/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nithin-Valiyaveedu/Nithin-Valiyaveedu/refs/heads/github-breakout/images/breakout-light.svg">
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/Nithin-Valiyaveedu/Nithin-Valiyaveedu/refs/heads/github-breakout/images/breakout-light.svg">
+</picture>
 
 <h3 align="center">
   Full Stack Developer & Research Assistant @ Fraunhofer FOKUS (Berlin, Germany)
