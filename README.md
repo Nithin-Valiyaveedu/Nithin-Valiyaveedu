@@ -6,9 +6,9 @@
          I'm Nithin Valiyaveedu</h1>
          <!-- Contribution Snake -->
          
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nithin-Valiyaveedu/git-display/master/download.svg" alt="Contribution Snake" />
-</p>
+<!-- <p align="center"> -->
+<!--   <img src="https://raw.githubusercontent.com/Nithin-Valiyaveedu/git-display/master/download.svg" alt="Contribution Snake" /> -->
+<!-- </p> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nithin-Valiyaveedu/Nithin-Valiyaveedu/refs/heads/github-breakout/images/breakout-dark.svg">
