@@ -72,10 +72,4 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
 </div>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nithin-Valiyaveedu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&order=2&custom_title=Top%20Programming%20Languages" height="200" alt="languages graph"  />
-
-</div>
-
 ###
