@@ -25,7 +25,7 @@
 <p align="center">
   🔭 Currently working with <strong>Golang</strong>, <strong>TypeScript</strong>, <strong>JavaScript</strong>, 
   <strong>Python</strong>, <strong>React Flow</strong>, <strong>Next.js</strong>, <strong>React.js</strong>, and <strong>Node.js</strong>.<br><br>
-  🌱 Pursuing my thesis while learning about <strong>AI Agents</strong>, <strong>LLMs</strong>, 
+  🌱 Completed my thesis in <strong>Legal Information Retrieval and Creation of decision Tables from legal documents using hybrid RAG based approaches</strong> while learning about <strong>AI Agents</strong>, <strong>LLMs</strong>, 
   <strong>Cloud-Native Deployment</strong> (AWS), and <strong>RAG</strong>.<br><br>
   📫 Reach me out 👇🏻
 </p>
