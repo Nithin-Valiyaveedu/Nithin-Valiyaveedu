@@ -17,7 +17,7 @@
 </picture>
 
 <h3 align="center">
-  AI (Agentic Engineer) @  <a href="http://mercanis.com/" target="_blank">Mercanis</a> an AI Procurement Startup
+  AI (Agentic Engineer) @ Mercanis, an AI Procurement Startup
 </h3>
 
 ---
