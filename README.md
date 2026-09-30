@@ -17,13 +17,13 @@
 </picture>
 
 <h3 align="center">
-  Full Stack Developer & Research Assistant @ Fraunhofer FOKUS (Berlin, Germany)
+  AI (Agentic Engineer) @  <a href="http://mercanis.com/" target="_blank">Mercanis</a> an AI Procurement Startup
 </h3>
 
 ---
 
 <p align="center">
-  🔭 Currently working with <strong>Golang</strong>, <strong>TypeScript</strong>, <strong>JavaScript</strong>, 
+  🔭 Currently working with <strong>Python</strong>, <strong>TypeScript</strong>, <strong>Go</strong>, 
   <strong>Python</strong>, <strong>React Flow</strong>, <strong>Next.js</strong>, <strong>React.js</strong>, and <strong>Node.js</strong>.<br><br>
   🌱 Completed my thesis in <strong>Legal Information Retrieval and Creation of decision Tables from legal documents using hybrid RAG based approaches</strong> while learning about <strong>AI Agents</strong>, <strong>LLMs</strong>, 
   <strong>Cloud-Native Deployment</strong> (AWS), and <strong>RAG</strong>.<br><br>
